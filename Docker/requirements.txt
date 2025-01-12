@@ -1,0 +1,7 @@
+phonemizer
+torch
+transformers
+scipy
+munch
+fastapi
+uvicorn
